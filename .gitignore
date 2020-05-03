@@ -1,7 +1,8 @@
-.venv
-output
-.sass-cache
+*~
+._*
+*.lock
+*.DS_Store
 *.swp
-*.pyc
-
-.DS_Store
+*.out
+*.py[cod]
+output
